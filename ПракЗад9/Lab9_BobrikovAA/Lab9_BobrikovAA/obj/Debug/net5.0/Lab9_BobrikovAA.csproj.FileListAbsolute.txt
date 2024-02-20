@@ -1,0 +1,16 @@
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\bin\Debug\net5.0\Lab9_BobrikovAA.exe
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\bin\Debug\net5.0\Lab9_BobrikovAA.deps.json
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\bin\Debug\net5.0\Lab9_BobrikovAA.runtimeconfig.json
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\bin\Debug\net5.0\Lab9_BobrikovAA.runtimeconfig.dev.json
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\bin\Debug\net5.0\Lab9_BobrikovAA.dll
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\bin\Debug\net5.0\Lab9_BobrikovAA.pdb
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\Lab9_BobrikovAA.GeneratedMSBuildEditorConfig.editorconfig
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\Lab9_BobrikovAA.AssemblyInfoInputs.cache
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\Lab9_BobrikovAA.AssemblyInfo.cs
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\Lab9_BobrikovAA.csproj.CoreCompileInputs.cache
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\Lab9_BobrikovAA.dll
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\ref\Lab9_BobrikovAA.dll
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\Lab9_BobrikovAA.pdb
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\Lab9_BobrikovAA.genruntimeconfig.cache
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\Lab9_BobrikovAA.csproj.AssemblyReference.cache
+X:\Раз.Прог.Мод\ПракЗад9\Lab9_BobrikovAA\Lab9_BobrikovAA\obj\Debug\net5.0\refint\Lab9_BobrikovAA.dll

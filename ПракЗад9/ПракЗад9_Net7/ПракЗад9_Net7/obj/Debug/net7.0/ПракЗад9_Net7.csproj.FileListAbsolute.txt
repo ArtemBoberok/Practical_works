@@ -1,0 +1,15 @@
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\bin\Debug\net7.0\ПракЗад9_Net7.exe
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\bin\Debug\net7.0\ПракЗад9_Net7.deps.json
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\bin\Debug\net7.0\ПракЗад9_Net7.runtimeconfig.json
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\bin\Debug\net7.0\ПракЗад9_Net7.dll
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\bin\Debug\net7.0\ПракЗад9_Net7.pdb
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ПракЗад9_Net7.csproj.AssemblyReference.cache
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ПракЗад9_Net7.GeneratedMSBuildEditorConfig.editorconfig
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ПракЗад9_Net7.AssemblyInfoInputs.cache
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ПракЗад9_Net7.AssemblyInfo.cs
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ПракЗад9_Net7.csproj.CoreCompileInputs.cache
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ПракЗад9_Net7.dll
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\refint\ПракЗад9_Net7.dll
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ПракЗад9_Net7.pdb
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ПракЗад9_Net7.genruntimeconfig.cache
+X:\Раз.Прог.Мод\ПракЗад9\ПракЗад9_Net7\ПракЗад9_Net7\obj\Debug\net7.0\ref\ПракЗад9_Net7.dll
