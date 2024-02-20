@@ -1,0 +1,5 @@
+X:\Раз.Прог.Мод\ПракЗад8\Задание 1\Задание 1\obj\Debug\net5.0\Задание 1.csproj.AssemblyReference.cache
+X:\Раз.Прог.Мод\ПракЗад8\Задание 1\Задание 1\obj\Debug\net5.0\Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+X:\Раз.Прог.Мод\ПракЗад8\Задание 1\Задание 1\obj\Debug\net5.0\Задание 1.AssemblyInfoInputs.cache
+X:\Раз.Прог.Мод\ПракЗад8\Задание 1\Задание 1\obj\Debug\net5.0\Задание 1.AssemblyInfo.cs
+X:\Раз.Прог.Мод\ПракЗад8\Задание 1\Задание 1\obj\Debug\net5.0\Задание 1.csproj.CoreCompileInputs.cache
