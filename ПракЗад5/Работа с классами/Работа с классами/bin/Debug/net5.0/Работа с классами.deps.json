@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Работа с классами/1.0.0": {
+        "runtime": {
+          "Работа с классами.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Работа с классами/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
