@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Перегрузка методов. Определение операций в классе. 1/1.0.0": {
+        "runtime": {
+          "Перегрузка методов. Определение операций в классе. 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Перегрузка методов. Определение операций в классе. 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
