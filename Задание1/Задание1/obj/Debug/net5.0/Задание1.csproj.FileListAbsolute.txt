@@ -1,0 +1,16 @@
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\bin\Debug\net5.0\Задание1.exe
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\bin\Debug\net5.0\Задание1.deps.json
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\bin\Debug\net5.0\Задание1.runtimeconfig.json
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\bin\Debug\net5.0\Задание1.runtimeconfig.dev.json
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\bin\Debug\net5.0\Задание1.dll
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\bin\Debug\net5.0\Задание1.pdb
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\Задание1.csproj.AssemblyReference.cache
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\Задание1.GeneratedMSBuildEditorConfig.editorconfig
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\Задание1.AssemblyInfoInputs.cache
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\Задание1.AssemblyInfo.cs
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\Задание1.csproj.CoreCompileInputs.cache
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\Задание1.dll
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\Задание1.pdb
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\Задание1.genruntimeconfig.cache
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\obj\Debug\net5.0\ref\Задание1.dll
+X:\Раз.Прог.Мод\ПракЗад2\Задание1\Задание1\bin\Debug\net5.0\ref\Задание1.dll
