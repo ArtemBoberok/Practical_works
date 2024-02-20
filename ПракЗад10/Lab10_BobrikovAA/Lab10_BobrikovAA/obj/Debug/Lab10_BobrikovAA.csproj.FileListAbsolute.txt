@@ -1,0 +1,11 @@
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\bin\Debug\Lab10_BobrikovAA.exe.config
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\bin\Debug\Lab10_BobrikovAA.exe
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\bin\Debug\Lab10_BobrikovAA.pdb
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\obj\Debug\Lab10_BobrikovAA.csproj.AssemblyReference.cache
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\obj\Debug\Lab10_BobrikovAA.csproj.SuggestedBindingRedirects.cache
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\obj\Debug\Lab10_BobrikovAA.Form.resources
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\obj\Debug\Lab10_BobrikovAA.Properties.Resources.resources
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\obj\Debug\Lab10_BobrikovAA.csproj.GenerateResource.cache
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\obj\Debug\Lab10_BobrikovAA.csproj.CoreCompileInputs.cache
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\obj\Debug\Lab10_BobrikovAA.exe
+X:\Раз.Прог.Мод\ПракЗад10\Lab10_BobrikovAA\Lab10_BobrikovAA\obj\Debug\Lab10_BobrikovAA.pdb
