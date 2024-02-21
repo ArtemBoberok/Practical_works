@@ -1,0 +1,10 @@
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\bin\Debug\Search for items.exe.config
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\bin\Debug\Search for items.exe
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\bin\Debug\Search for items.pdb
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\obj\Debug\Search for items.csproj.AssemblyReference.cache
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\obj\Debug\Search_for_items.Form1.resources
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\obj\Debug\Search_for_items.Properties.Resources.resources
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\obj\Debug\Search for items.csproj.GenerateResource.cache
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\obj\Debug\Search for items.csproj.CoreCompileInputs.cache
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\obj\Debug\Search for items.exe
+X:\МДК.01.01 Разр. прог. мод\Search for items\Search for items\obj\Debug\Search for items.pdb
