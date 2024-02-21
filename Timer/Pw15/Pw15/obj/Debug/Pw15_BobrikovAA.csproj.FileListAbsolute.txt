@@ -1,0 +1,10 @@
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\bin\Debug\Pw15.exe.config
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\bin\Debug\Pw15.exe
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\bin\Debug\Pw15.pdb
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\obj\Debug\Pw15_BobrikovAA.csproj.AssemblyReference.cache
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\obj\Debug\Pw15.Form1.resources
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\obj\Debug\Pw15.Properties.Resources.resources
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\obj\Debug\Pw15_BobrikovAA.csproj.GenerateResource.cache
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\obj\Debug\Pw15_BobrikovAA.csproj.CoreCompileInputs.cache
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\obj\Debug\Pw15.exe
+X:\Раз.Прог.Мод\Timer\Pw15\Pw15\obj\Debug\Pw15.pdb
