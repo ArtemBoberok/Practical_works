@@ -1,0 +1,10 @@
+X:\Раз.Прог.Мод\Чек\Чек\bin\Debug\Чек.exe.config
+X:\Раз.Прог.Мод\Чек\Чек\bin\Debug\Чек.exe
+X:\Раз.Прог.Мод\Чек\Чек\bin\Debug\Чек.pdb
+X:\Раз.Прог.Мод\Чек\Чек\obj\Debug\Чек.csproj.AssemblyReference.cache
+X:\Раз.Прог.Мод\Чек\Чек\obj\Debug\Чек.Form1.resources
+X:\Раз.Прог.Мод\Чек\Чек\obj\Debug\Чек.Properties.Resources.resources
+X:\Раз.Прог.Мод\Чек\Чек\obj\Debug\Чек.csproj.GenerateResource.cache
+X:\Раз.Прог.Мод\Чек\Чек\obj\Debug\Чек.csproj.CoreCompileInputs.cache
+X:\Раз.Прог.Мод\Чек\Чек\obj\Debug\Чек.exe
+X:\Раз.Прог.Мод\Чек\Чек\obj\Debug\Чек.pdb
